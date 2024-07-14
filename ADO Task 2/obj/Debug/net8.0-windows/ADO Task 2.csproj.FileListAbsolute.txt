@@ -1,0 +1,32 @@
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\obj\Debug\net8.0-windows\ADO Task 2.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\obj\Debug\net8.0-windows\ADO_Task_2.Form1.resources
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\obj\Debug\net8.0-windows\ADO Task 2.csproj.GenerateResource.cache
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\obj\Debug\net8.0-windows\ADO Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\obj\Debug\net8.0-windows\ADO Task 2.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\obj\Debug\net8.0-windows\ADO Task 2.AssemblyInfo.cs
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\obj\Debug\net8.0-windows\ADO Task 2.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\ADO Task 2.exe
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\ADO Task 2.deps.json
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\ADO Task 2.runtimeconfig.json
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\ADO Task 2.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\ADO Task 2.pdb
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\obj\Debug\net8.0-windows\ADO Task 2.csproj.Up2Date
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\obj\Debug\net8.0-windows\ADO Task 2.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\obj\Debug\net8.0-windows\refint\ADO Task 2.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\obj\Debug\net8.0-windows\ADO Task 2.pdb
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\obj\Debug\net8.0-windows\ADO Task 2.genruntimeconfig.cache
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\obj\Debug\net8.0-windows\ref\ADO Task 2.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Ibrahim\Desktop\ADO Task 2\ADO Task 2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
